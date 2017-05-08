@@ -1,0 +1,2 @@
+# DSO-Shell-open-source-version-
+Source codes for DSO Shell (DSO150) from JYE Tech. They are not an exact copy of factory codes (e. g. product testing codes are not included) but have completely the same functions and performance of matching revision. The codes are built with support of the library file libdso150.a, which implements the core DSO functions and runs only on DSO Shell or equivalent boards. Source codes for library file libdso150.a are not included in this repository. This project was developed under CodeSourcery G++ Lite.
